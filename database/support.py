@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @callmeshackletok
+# t.me/asupanvirall & t.me/gabutnyashackle
 
 import asyncio
 
